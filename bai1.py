@@ -16,4 +16,4 @@ elif d>0:
     x2=(-b-(math.sqrt(d)))/2*a
     print("Phương Trình Có 2 nghiệm phân biêt: \n","\t x1=",x1,"và x2=",x2)
 else:
-    print("Bạn vừa nhập không phải phương trình bậc 2 3")
+    print("Bạn vừa nhập không phải phương trình bậc 2 ")
